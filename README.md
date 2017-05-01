@@ -1,2 +1,1 @@
-# dikki123.github.io
-Resume
+# akgraphics.github.io
